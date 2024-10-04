@@ -9,7 +9,6 @@ git clone https://github.com/daffaarigoh/Proyek_Analisis_Data.git
 
 Pastikan Anda memiliki lingkungan Python yang sesuai dan pustaka-pustaka yang diperlukan. Anda dapat menginstal pustaka-pustaka tersebut dengan menjalankan perintah berikut:
 ```
-pip install streamlit
 pip install -r requirements.txt
 ```
 
