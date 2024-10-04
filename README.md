@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Masuk ke direktori proyek (Local):
 ```
 cd submission/Dashboard
-streamlit run dashboard/py
+streamlit run dashboard.py
 ```
 
 Atau bisa dengan kunjungi website : https://proyekdaffaarigoh.streamlit.app/
