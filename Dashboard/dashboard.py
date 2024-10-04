@@ -9,7 +9,7 @@ st.title('E-Commerce Public Dashboard')
 # Load dataset
 @st.cache_data
 def load_data():
-    data = pd.read_csv('/Dashboard/main_data.csv')
+    data = pd.read_csv('./Dashboard/main_data.csv')
     data['order_purchase_timestamp'] = pd.to_datetime(data['order_purchase_timestamp'], errors='coerce')
     return data
 
